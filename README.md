@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-craft-sumaiya&label=Profile%20views&color=0e75b6&style=flat" alt="web-craft-sumaiya" /> </p>
 
-- 🔭 I’m currently working on **HS Web Soft & Fiverr**
+- 🔭 I’m currently working on **OLIVE IT & Fiverr**
 
 - 🌱 I’m currently learning **Backend Development**
 
